@@ -1,0 +1,24 @@
+{
+    "icons": [
+    "right-arrow",
+    "email",
+    "telephone-call",
+    "repair",
+    "repair",
+    "documents",
+    "portfolio",
+    "play-button",
+    "link",
+    "analysis",
+    "feedback",
+    "projects",
+    "idea",
+    "clock",
+    "consulting",
+    "money-bag",
+    "sales",
+    "start-up",
+    "friend",
+    "text-message",
+]
+}

@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "flaticon-v7";
+    src: url("../fonts/flaticon-v7.ttf?faedc8e6dc8f7f0cf1d26a5bcc4ff9bd") format("truetype"),
+url("../fonts/flaticon-v7.woff?faedc8e6dc8f7f0cf1d26a5bcc4ff9bd") format("woff"),
+url("../fonts/flaticon-v7.woff2?faedc8e6dc8f7f0cf1d26a5bcc4ff9bd") format("woff2"),
+url("../fonts/flaticon-v7.eot?faedc8e6dc8f7f0cf1d26a5bcc4ff9bd#iefix") format("embedded-opentype"),
+url("../fonts/flaticon-v7.svg?faedc8e6dc8f7f0cf1d26a5bcc4ff9bd#flaticon-v7") format("svg");
+}
+
+i[class^="flaticonv7-"]:before, i[class*=" flaticonv7-"]:before {
+    font-family: flaticon-v7 !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticonv7-research:before {
+    content: "\f101";
+}
+.flaticonv7-social-marketing:before {
+    content: "\f102";
+}
+.flaticonv7-seo:before {
+    content: "\f103";
+}
+.flaticonv7-startegy:before {
+    content: "\f104";
+}
+.flaticonv7-television:before {
+    content: "\f105";
+}
+.flaticonv7-profit:before {
+    content: "\f106";
+}
+.flaticonv7-chain:before {
+    content: "\f107";
+}
+.flaticonv7-aim:before {
+    content: "\f108";
+}
+.flaticonv7-project-management:before {
+    content: "\f109";
+}
+.flaticonv7-review:before {
+    content: "\f10a";
+}
+.flaticonv7-handshake:before {
+    content: "\f10b";
+}
+.flaticonv7-marketing:before {
+    content: "\f10c";
+}
+.flaticonv7-email-marketing:before {
+    content: "\f10d";
+}

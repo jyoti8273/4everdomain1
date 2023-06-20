@@ -1,0 +1,102 @@
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+    overflow-x: hidden;
+}
+.header-syle-one .pr-language-select .pr-lang-img {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.pr-h-cta-btn.d-flex.justify-content-center.align-items-center {
+    margin-left: 0;
+    margin-right: 80px;
+}
+.header-syle-one .pr-header-info-item .hd-item-icon {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.header-syle-one .header-navigation-content li a {
+    font-weight: 600;
+}
+.pr-contact-info .pr-contact-info-item {
+    margin-left: 50px;
+    margin-right: 0;
+}
+
+.pr-contact-info .pr-contact-info-item:not(:last-child) {
+    margin-right: 0;
+}
+.pr-contact-info .pr-contact-info-item:not(:first-child) {
+    margin-left: 0;
+    margin-right: 30px;
+}
+
+.pr-blog-inner-item .item-author-meta .pr-blog-more i {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.pr-more-btn i {
+    display: none !important;
+}
+.pr-widget-wrap .pr-search-widget input {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.pr-widget-wrap .pr-search-widget button {
+    left: 0;
+    right: auto;
+}
+.pr-blog-inner-item .pr-blog-text-item .item-meta i{
+    margin-left: 0;
+    margin-right: 5px;
+}
+.pr-portfolio-item-details-text {
+    padding-left: 0;
+    padding-right: 20px;
+}
+.pr-testimonial-more-btn {
+    padding-right: 30px;
+}
+
+.pr-testimonial-more .pr-testimonial-more-btn a i {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.pr-cta-content .pr-btn a i {
+    margin-right: 5px;
+    margin-left: 0;
+}
+.header-syle-one .pr-language-select ul li img {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.pr-case-studies-content {
+    direction: ltr;
+    text-align: right;
+}
+.case-slider-item {
+    float: left !important;
+}
+.pr-about-section .pr-section-title p {
+    max-width: 100%;
+}
+.pr-service-section .pr-service-content .pr-service-more a i {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.pr-service-section .pr-service-content .pr-service-more span {
+    display: none;
+}
+.pr-service-section .pr-service-content .pr-service-more a i {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.pr-service-section .pr-service-content .pr-service-more a::after {
+    left: auto;
+    right: 47px;
+}

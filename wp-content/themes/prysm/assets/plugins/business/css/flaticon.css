@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf?4fec82bbd39970ad2cf6d78460f3a9d2") format("truetype"),
+url("../fonts/flaticon.woff?4fec82bbd39970ad2cf6d78460f3a9d2") format("woff"),
+url("../fonts/flaticon.woff2?4fec82bbd39970ad2cf6d78460f3a9d2") format("woff2"),
+url("../fonts/flaticon.eot?4fec82bbd39970ad2cf6d78460f3a9d2#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.svg?4fec82bbd39970ad2cf6d78460f3a9d2#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-right-arrow:before {
+    content: "\f101";
+}
+.flaticon-email:before {
+    content: "\f102";
+}
+.flaticon-telephone-call:before {
+    content: "\f103";
+}
+.flaticon-repair:before {
+    content: "\f104";
+}
+.flaticon-documents:before {
+    content: "\f105";
+}
+.flaticon-portfolio:before {
+    content: "\f106";
+}
+.flaticon-play-button:before {
+    content: "\f107";
+}
+.flaticon-link:before {
+    content: "\f108";
+}
+.flaticon-analysis:before {
+    content: "\f109";
+}
+.flaticon-feedback:before {
+    content: "\f10a";
+}
+.flaticon-projects:before {
+    content: "\f10b";
+}
+.flaticon-idea:before {
+    content: "\f10c";
+}
+.flaticon-clock:before {
+    content: "\f10d";
+}
+.flaticon-consulting:before {
+    content: "\f10e";
+}
+.flaticon-money-bag:before {
+    content: "\f10f";
+}
+.flaticon-sales:before {
+    content: "\f110";
+}
+.flaticon-start-up:before {
+    content: "\f111";
+}
+.flaticon-friend:before {
+    content: "\f112";
+}
+.flaticon-text-message:before {
+    content: "\f113";
+}

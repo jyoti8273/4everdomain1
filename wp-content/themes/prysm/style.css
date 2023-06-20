@@ -1,0 +1,87 @@
+/*
+Theme Name: Prysm
+Theme URI: https://themexriver.com/wp/prysm/
+Description: Prysm - Consulting & Business WordPress Theme  by - <a href="https://themexriver.net/">Themexriver</a>
+Version:2.5
+Author: Themexriver
+Author URI: https://themeforest.net/user/themexriver/
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: accountant, advertising, agency, business, company, consulting, corporate, creative, finance, financial, insurance, marketing, multipurpose, software, startup
+Text Domain: prysm
+*/
+ 
+.page-id-1138 .elementor-section.elementor-top-section.elementor-section-full_width.elementor-section-height-default{
+	background-color:#000000 ;
+}
+.main-menu .navigation > li.menu-item-has-children:hover > ul {
+   background: linear-gradient(to right, #9000FE 0%, #F000A2 33%, #ff8b5d 100%);
+}
+.main-menu .navigation > li > ul > li > a {
+   color: #fff;
+}
+.page-id-1138 .team-section, .page-id-1138 .news-section {
+    background-color: #000000 ;
+}
+.slick-slide.slick-current.slick-active:after{
+content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: #08080899;
+}
+.main-header .main-menu .navigation > li.menu-item-has-children > a:before {
+    content: "\f107" !important;
+}
+.main-menu .navigation > li > ul > li:hover > a {
+    color: #ffffff;
+    padding-left: 10px;
+}
+.main-menu .navigation > li > ul > li:hover > a::before {
+    opacity: 1;
+    content: "" !important;
+}
+a:hover{
+    text-decoration:none !important;
+}
+.header-top .top-right .social-box {
+    position: relative;
+    margin: 0;
+}
+.logo img {
+    max-width: 220px;
+}
+header.main-header.new_header.is-sticky {
+    position: fixed;
+    box-shadow: 0 5px 16px rgba(0, 0, 0, 0.1);
+    padding: 0;
+    backdrop-filter: blur(10px);
+    background-color:#000000;
+    animation: slideDown 0.35s ease-out;
+    z-index:9999;
+}
+
+header.main-header.new_header.is-sticky.fixed-header img {
+    max-width: 160px;
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    -o-transition: all 0.8s;
+    transition: all 0.8s;
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+header.main-header.new_header.is-sticky .header-top {
+    display: none;
+}

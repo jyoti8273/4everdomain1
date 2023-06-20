@@ -1,0 +1,197 @@
+@font-face {
+    font-family: "flaticon-v3";
+    src: url("../fonts/flaticon-v3.ttf?c22f439f1962599c7c798269e718d33c") format("truetype"),
+url("../fonts/flaticon-v3.woff?c22f439f1962599c7c798269e718d33c") format("woff"),
+url("../fonts/flaticon-v3.woff2?c22f439f1962599c7c798269e718d33c") format("woff2"),
+url("../fonts/flaticon-v3.eot?c22f439f1962599c7c798269e718d33c#iefix") format("embedded-opentype"),
+url("../fonts/flaticon-v3.svg?c22f439f1962599c7c798269e718d33c#flaticon-v3") format("svg");
+}
+
+i[class^="flaticonv3-"]:before, i[class*=" flaticonv3-"]:before {
+    font-family: flaticon-v3 !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticonv3-right-arrow:before {
+    content: "\f101";
+}
+.flaticonv3-next:before {
+    content: "\f102";
+}
+.flaticonv3-next-1:before {
+    content: "\f103";
+}
+.flaticonv3-phone-call:before {
+    content: "\f104";
+}
+.flaticonv3-pin:before {
+    content: "\f105";
+}
+.flaticonv3-email:before {
+    content: "\f106";
+}
+.flaticonv3-phone-call-1:before {
+    content: "\f107";
+}
+.flaticonv3-link:before {
+    content: "\f108";
+}
+.flaticonv3-quotes:before {
+    content: "\f109";
+}
+.flaticonv3-play-button:before {
+    content: "\f10a";
+}
+.flaticonv3-growth-chart:before {
+    content: "\f10b";
+}
+.flaticonv3-market:before {
+    content: "\f10c";
+}
+.flaticonv3-analytics:before {
+    content: "\f10d";
+}
+.flaticonv3-high-value:before {
+    content: "\f10e";
+}
+.flaticonv3-objectives:before {
+    content: "\f10f";
+}
+.flaticonv3-brainstorming:before {
+    content: "\f110";
+}
+.flaticonv3-remuneration:before {
+    content: "\f111";
+}
+.flaticonv3-business-report:before {
+    content: "\f112";
+}
+.flaticonv3-strategy:before {
+    content: "\f113";
+}
+.flaticonv3-segmentation:before {
+    content: "\f114";
+}
+.flaticonv3-data-analysis:before {
+    content: "\f115";
+}
+.flaticonv3-right-arrow-1:before {
+    content: "\f116";
+}
+.flaticonv3-pin-1:before {
+    content: "\f117";
+}
+.flaticonv3-email-1:before {
+    content: "\f118";
+}
+.flaticonv3-pinterest:before {
+    content: "\f119";
+}
+.flaticonv3-business-plan:before {
+    content: "\f11a";
+}
+.flaticonv3-decision:before {
+    content: "\f11b";
+}
+.flaticonv3-analysis:before {
+    content: "\f11c";
+}
+.flaticonv3-left-quote:before {
+    content: "\f11d";
+}
+.flaticonv3-productivity:before {
+    content: "\f11e";
+}
+.flaticonv3-mission-accomplished:before {
+    content: "\f11f";
+}
+.flaticonv3-circular-chart:before {
+    content: "\f120";
+}
+.flaticonv3-achievement:before {
+    content: "\f121";
+}
+.flaticonv3-web:before {
+    content: "\f122";
+}
+.flaticonv3-sketch:before {
+    content: "\f123";
+}
+.flaticonv3-swatches:before {
+    content: "\f124";
+}
+.flaticonv3-research:before {
+    content: "\f125";
+}
+.flaticonv3-research-1:before {
+    content: "\f126";
+}
+.flaticonv3-code:before {
+    content: "\f127";
+}
+.flaticonv3-add:before {
+    content: "\f128";
+}
+.flaticonv3-user:before {
+    content: "\f129";
+}
+.flaticonv3-more:before {
+    content: "\f12a";
+}
+.flaticonv3-facebook:before {
+    content: "\f12b";
+}
+.flaticonv3-twitter:before {
+    content: "\f12c";
+}
+.flaticonv3-linkedin:before {
+    content: "\f12d";
+}
+.flaticonv3-checked:before {
+    content: "\f12e";
+}
+.flaticonv3-phone-call-2:before {
+    content: "\f12f";
+}
+.flaticonv3-idea:before {
+    content: "\f130";
+}
+.flaticonv3-improve:before {
+    content: "\f131";
+}
+.flaticonv3-tools:before {
+    content: "\f132";
+}
+.flaticonv3-studying:before {
+    content: "\f133";
+}
+.flaticonv3-market-research:before {
+    content: "\f134";
+}
+.flaticonv3-idea-1:before {
+    content: "\f135";
+}
+.flaticonv3-24-hours:before {
+    content: "\f136";
+}
+.flaticonv3-consulting:before {
+    content: "\f137";
+}
+.flaticonv3-account:before {
+    content: "\f138";
+}
+.flaticonv3-calendar:before {
+    content: "\f139";
+}
+.flaticonv3-stats:before {
+    content: "\f13a";
+}
+.flaticonv3-offer:before {
+    content: "\f13b";
+}

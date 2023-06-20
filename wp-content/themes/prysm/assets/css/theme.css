@@ -1,0 +1,158 @@
+ul.prysm-pagination li span.current.page-numbers {
+	width: 40px;
+	height: 40px;
+	margin: 0px 5px;
+	line-height: 40px;
+	font-weight: 600;
+	text-align: center;
+	display: inline-block;
+	color: #fff;
+	background-color: #0d7dfc;
+}
+.prysm_sidebar .gallery-widget .gallery-item {
+	margin-top: 0px !important;
+}
+.prysm_sidebar .gallery-widget .gallery-item img {
+	border: none !important;
+}
+
+.pr-blog-comment-block .pr-blog-comment-block {
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+}
+
+.pr-blog-comment-block .comment-respond {
+	margin-top: 40px;
+}
+.mCSB_draggerContainer {
+	width: 16px !important;
+	border-radius: 4px !important;
+	background-color: #f6f6f6 !important;
+	border: 2px solid #e7e7e7 !important;
+}
+.mCSB_draggerRail {
+	width: 0px !important;
+	border: 0px !important;
+}
+/* TTU */
+
+.single_page_content.inner-content:after,
+.blog-details-text:after {
+	content: ".";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+.alignright {
+	float: right;
+	margin-left: 10px;
+}
+.alignleft {
+	float: left;
+	margin-right: 10px;
+}
+.aligncenter {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	text-align: center;
+	display: block;
+}
+.wp-block-button.is-style-squared a.wp-block-button__link {
+	border-radius: 0px;
+}
+.wp-block-button {
+	margin: 5px 0;
+}
+.wp-block-cover-text {
+	color: #ffffff !important;
+}
+.wp-block-gallery ul.blocks-gallery-grid li.blocks-gallery-item:before {
+	visibility: hidden;
+}
+.article__full-content p {
+	line-height: 1;
+}
+.article__full-content table {
+	width: 100%;
+}
+.article__full-content table td {
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+}
+.article__full-content .post-password-form input {
+	border: 1px solid black;
+	padding: 5px;
+}
+ol li:before {
+	background: none;
+	top: 0px;
+}
+.sticky .article__bg,
+.tag-sticky-2 .article__bg {
+	border: 1px solid #ff6231;
+	box-shadow: 0 10px 20px #ff6231;
+}
+.tag-featured-image.post-1016 .article__short-image .article__photo {
+	width: 30%;
+}
+.wp-caption,
+.wp-caption-text,
+.bypostauthor {
+	max-width: 100%;
+}
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+.gallery-caption {
+	display: block;
+	margin-bottom: 1em;
+}
+select {
+	max-width: 100%;
+}
+table#wp-calendar {
+	width: 100%;
+}
+table#wp-calendar td,
+table#wp-calendar th {
+	border: 1px solid #000;
+}
+.tag-sticky-2 .pr-blog-inner-item {
+	box-shadow: 0px 0px 21px 0px rgb(13 125 252 / 70%);
+}
+.wp-block-button a {
+	color: #fff !important;
+}
+.wp-block-button.is-style-outline a {
+	color: #32373c !important;
+	border-color: #32373c !important;
+}
+dl.gallery-item {
+	margin-right: 5px !important;
+	width: 31% !important;
+}
+.headline h2,
+.headline h3 {
+	word-wrap: break-word;
+}
+.pr-blog-tag-share .pr-blog-tag a {
+	margin-bottom: 8px;
+}
+.pr-blog-comment-text {
+	min-width: 50%;
+}
+.pr-tag-widget ul li,
+.pr-gallery-widget ul li {
+	display: inline-block !important;
+}
+.input-info span.wpcf7-form-control-wrap input {
+	max-width: 280px;
+}

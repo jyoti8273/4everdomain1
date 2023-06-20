@@ -1,0 +1,33 @@
+{
+    "icons": [
+    "play-button",
+    "straight-quotes",
+    "blocks-with-angled-cuts",
+    "home-page",
+    "magnifying-glass",
+    "angle-arrow-pointing-to-right",
+    "media-play-symbol",
+    "quotation-mark",
+    "right-quotes-symbol",
+    "left-quotes-sign",
+    "gear",
+    "graduate-cap",
+    "world",
+    "play-arrow",
+    "chat-bubbles-with-ellipsis",
+    "arrow-pointing-to-right",
+    "space-rocket-launch",
+    "telephone",
+    "big-anchor",
+    "security",
+    "shopping-bag",
+    "plus-symbol",
+    "right-arrow",
+    "left-arrow",
+    "email",
+    "gear-2",
+    "megaphone",
+    "paint-brush",
+    "boxes"
+]
+}
